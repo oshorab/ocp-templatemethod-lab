@@ -13,6 +13,9 @@ public class CoffeeClient {
 
         starbuzz.prepareCapuccinoCoffee();
 
+        System.out.println("********************");
+
+        starbuzz.prepareAmericanoCoffee();
     }
 
 }
